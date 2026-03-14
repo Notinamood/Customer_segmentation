@@ -297,13 +297,13 @@ Tableau | Data visualization |
 ---
 
 #  Project Workflow
-Raw Dataset
-Data Profiling (Python)
-Data Cleaning & Feature Engineering
-PostgreSQL Database
-SQL RFM Analysis
-Customer Segmentation
-Tableau Dashboard
+- Raw Dataset
+- Data Profiling (Python)
+- Data Cleaning & Feature Engineering
+- PostgreSQL Database
+- SQL RFM Analysis
+- Customer Segmentation
+- Tableau Dashboard
 
 
 ---

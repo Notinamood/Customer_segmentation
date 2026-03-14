@@ -20,11 +20,11 @@ The goal is to transform raw transactional data into **business insights** that 
 
 The project demonstrates a **complete data analytics workflow** including:
 
-✔ Data profiling  
-✔ Data cleaning  
-✔ SQL analytics  
-✔ Customer segmentation  
-✔ Interactive dashboard creation  
+ Data profiling  
+ Data cleaning  
+ SQL analytics  
+ Customer segmentation  
+ Interactive dashboard creation  
 
 ---
 
@@ -109,11 +109,11 @@ Data cleaning was performed using **Python (Pandas)**.
 
 ### Cleaning Steps
 
-✔ Removed rows with **missing customer IDs**  
-✔ Removed **duplicate records**  
-✔ Removed **negative quantities (returns)**  
-✔ Removed **cancelled invoices**  
-✔ Removed **zero-price transactions**
+ Removed rows with **missing customer IDs**  
+ Removed **duplicate records**  
+ Removed **negative quantities (returns)**  
+ Removed **cancelled invoices**  
+ Removed **zero-price transactions**
 
 These steps ensured the dataset only contained **valid purchase transactions**.
 

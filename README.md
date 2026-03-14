@@ -49,6 +49,7 @@ Companies can use these insights to:
 #  Dataset Overview
 
 The dataset used in this project is the **Online Retail II dataset**, containing transactional data from a UK-based online retail store.
+Dataset link : https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
 
 ## Dataset Features
 
@@ -137,10 +138,10 @@ After cleaning, the dataset contains only **valid customer purchase records**.
 
 ### Improvements
 
-✔ Accurate revenue calculations  
-✔ Valid customer transactions only  
-✔ No duplicates or invalid rows  
-✔ Ready for SQL analytics  
+ Accurate revenue calculations  
+ Valid customer transactions only  
+ No duplicates or invalid rows  
+ Ready for SQL analytics  
 
 The cleaned dataset was stored in **PostgreSQL** for further analysis.
 
@@ -235,10 +236,93 @@ The final stage of the project was building an **interactive Tableau dashboard**
 
 # Interactive Dashboard
 
-Explore the full interactive dashboard:
+Explore the full interactive dashboard: 
 
  **TABLEAU_LINK**
 
 Example:
 https://public.tableau.com/views/CustomersegmentationusingRFMcalculation/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
+---
+
+#  Dashboard Visualizations
+
+The dashboard includes:
+
+ Customer segment distribution  
+ Revenue contribution by segment  
+ Orders by segment  
+ Revenue by country  
+ Average customer value  
+
+Filters allow users to **interactively explore customer behavior**.
+
+---
+
+#  Key Business Insights
+
+1️ **Champions generate the highest revenue**, highlighting the importance of retaining high-value customers.
+
+2️ **Loyal customers provide consistent repeat purchases**, representing stable long-term revenue.
+
+3️ A portion of customers fall into the **At Risk category**, indicating potential churn.
+
+4️ **Lost customers represent inactive users**, suggesting opportunities for re-engagement campaigns.
+
+---
+
+#  Business Recommendations
+
+Based on the analysis:
+
+ Implement **loyalty programs** for Champion customers  
+ Target **At Risk customers** with personalized promotions  
+ Encourage Loyal customers to increase spending through upselling  
+ Launch **win-back campaigns** for Lost customers  
+
+These strategies help improve **customer retention and revenue growth**.
+
+---
+
+#  Tools Used
+
+| Tool | Purpose |
+|------|--------|
+Python | Data profiling & cleaning |
+PostgreSQL | Data storage & SQL analysis |
+SQL | RFM calculation & segmentation |
+Tableau | Data visualization |
+
+---
+
+#  Project Workflow
+Raw Dataset
+↓
+Data Profiling (Python)
+↓
+Data Cleaning & Feature Engineering
+↓
+PostgreSQL Database
+↓
+SQL RFM Analysis
+↓
+Customer Segmentation
+↓
+Tableau Dashboard
+
+
+---
+
+#  Conclusion
+
+This project demonstrates how **data analytics transforms raw transactional data into actionable business insights**.
+
+By applying **RFM analysis**, businesses can:
+
+- identify valuable customers
+- reduce churn risk
+- improve marketing efficiency
+- increase customer lifetime value
+
+The project highlights the importance of **data-driven decision making in modern businesses**.

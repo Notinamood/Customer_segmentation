@@ -229,7 +229,7 @@ The final stage of the project was building an **interactive Tableau dashboard**
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/Ecommerce%20Revenue%20Analysis%20Dashboard.png)
+![Dashboard](Dashboard/Dashboard%201.png)
 
 ---
 

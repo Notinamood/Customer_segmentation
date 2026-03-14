@@ -250,11 +250,11 @@ https://public.tableau.com/views/CustomersegmentationusingRFMcalculation/Dashboa
 
 The dashboard includes:
 
- Customer segment distribution  
- Revenue contribution by segment  
- Orders by segment  
- Revenue by country  
- Average customer value  
+ - Customer segment distribution  
+ - Revenue contribution by segment  
+ - Orders by segment  
+ - Revenue by country  
+ - Average customer value  
 
 Filters allow users to **interactively explore customer behavior**.
 
